@@ -1,2 +1,2 @@
-# computer-systems-and-programming
+# csp
 computers skills practicing
